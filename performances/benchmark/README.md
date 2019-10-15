@@ -35,7 +35,7 @@ source performances_ws/install/local_setup.bash
 Run:
 
 ```
-cd performances_ws/install/lib/benchmark
+cd performances_ws/install/benchmark/lib/benchmark
 ./benchmark topology/sierra_nevada.json -t 60 --ipc on
 ```
 
